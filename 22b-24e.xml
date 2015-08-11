@@ -1,0 +1,1293 @@
+<treebank xml:lang='grc' format='aldt' version='1.5'>
+  <date>Tue Aug 11 17:28:27 +0000 2015</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;services2.perseids.org&#x2F;llt&#x2F;segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>Drew Latimer</short>
+    <name>Drew Latimer</name>
+    <address>lupy314@gmail.com</address>
+    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Drew%20Latimer</uri>
+  </annotator>
+  <sentence id='1' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='διθυράμβων' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='τοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ἄλλους' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='ὡς' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ἐνταῦθα' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='ἐπʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='αὐτοφώρῳ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='καταληψόμενος' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ἐμαυτὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ἀμαθέστερον' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='ἐκείνων' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='ὄντα' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='2' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἀναλαμβάνων' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='αὐτῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='τὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ποιήματα' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἅ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='μοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='ἐδόκει' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='μάλιστα' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='πεπραγματεῦσθαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='αὐτοῖς' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='13' form='διηρώτων' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='ἂν' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='αὐτοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='τί' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='λέγοιεν' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='19' form='ἵνʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='ἅμα' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='τι' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='μανθάνοιμι' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='παρʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='αὐτῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='3' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='αἰσχύνομαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ὑμῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='εἰπεῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='ὦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ἄνδρες' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='9' form='τ-' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ἀληθῆ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='4' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ὅμως' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ῥητέον' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='5' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ὡς' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='ἔπος' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='εἰπεῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ὀλίγου' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='αὐτῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ἅπαντες' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='παρόντες' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ἂν' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='βέλτιον' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ἔλεγον' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='περὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='ὧν' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='αὐτοὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='ἐπεποιήκεσαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='6' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἔγνων' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='αὖ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='περὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ποιητῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='ἐν' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='ὀλίγῳ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='τοῦτο' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='12' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='οὐ' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='σοφίᾳ' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='ποιοῖεν' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='ἃ' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='ποιοῖεν' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='19' form='ἀλλὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='φύσει' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='τινὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='ἐνθουσιάζοντες' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='ὥσπερ' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='θεομάντεις' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='χρησμῳδοί' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='7' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='οὗτοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='λέγουσι' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='μὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='πολλὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='καλά' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='10' form='ἴσασιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='οὐδὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='ὧν' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='λέγουσι' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='8' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='τοιοῦτόν' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='τί' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='μοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ἐφάνησαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='πάθος' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='ποιηταὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='πεπονθότες' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='11' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ἅμα' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='ᾐσθόμην' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='αὐτῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='διὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='τὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='ποίησιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='οἰομένων' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='τ-' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='ἆλλα' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='σοφωτάτων' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='εἶναι' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='ἀνθρώπων' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='ἃ' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='οὐκ' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='ἦσαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='9' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἀπῇα' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ἐντεῦθεν' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='τῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='αὐτῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='οἰόμενος' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='περιγεγονέναι' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='ᾧπερ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='πολιτικῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='10' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='τελευτῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ἐπὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='τοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='χειροτέχνας' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ᾖα' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='11' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἐμαυτῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='συνῄδη' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='οὐδὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ἐπισταμένῳ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ὡς' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ἔπος' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='εἰπεῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='10' form='τούτους' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='δέ' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='γʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='ᾔδη' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='εὑρήσοιμι' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='πολλὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='καλὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='ἐπισταμένους' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='12' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='τούτου' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='μὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='οὐκ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ἐψεύσθην' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='7' form='ἀλλʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='ἠπίσταντο' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='ἃ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ἐγὼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='οὐκ' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ἠπιστάμην' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='καί' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='μου' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='ταύτῃ' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='σοφώτεροι' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='ἦσαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='13' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἀλλʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='3' form='ὦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ἄνδρες' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='Ἀθηναῖοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='7' form='ταὐτόν' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='μοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='ἔδοξαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ἔχειν' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ἁμάρτημα' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ὅπερ' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='ποιηταὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='ἀγαθοὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='δημιουργοί—διὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='τὸ' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='τὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='τέχνην' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='καλῶς' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='ἐξεργάζεσθαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='ἕκαστος' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='ἠξίου' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='τ-' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='ἆλλα' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='τὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='μέγιστα' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='σοφώτατος' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='εἶναι—καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='34' form='αὐτῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='35' form='αὕτη' lemma='' postag='' relation='nil' head=''/>
+    <word id='36' form='ἡ' lemma='' postag='' relation='nil' head=''/>
+    <word id='37' form='πλημμέλεια' lemma='' postag='' relation='nil' head=''/>
+    <word id='38' form='ἐκείνην' lemma='' postag='' relation='nil' head=''/>
+    <word id='39' form='τὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='40' form='σοφίαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='41' form='ἀποκρύπτειν' lemma='' postag='' relation='nil' head=''/>
+    <word id='42' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='14' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ὥστε' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='με' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ἐμαυτὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ἀνερωτᾶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ὑπὲρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='τοῦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='χρησμοῦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='πότερα' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='δεξαίμην' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ἂν' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='οὕτως' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ὥσπερ' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='ἔχω' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='ἔχειν' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='16' form='μή' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='-τε' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='τι' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='σοφὸς' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='ὢν' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='τὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='ἐκείνων' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='σοφίαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='μή' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='-τε' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='ἀμαθὴς' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='τὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='ἀμαθίαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='30' form='ἢ' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='ἀμφότερα' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='ἃ' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='ἐκεῖνοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='34' form='ἔχουσιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='35' form='ἔχειν' lemma='' postag='' relation='nil' head=''/>
+    <word id='36' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='15' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἀπεκρινάμην' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ἐμαυτῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='τῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='χρησμῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='μοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='λυσιτελοῖ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ὥσπερ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ἔχω' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ἔχειν' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='16' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἐκ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='ταυτησὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='δὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='τῆς' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ἐξετάσεως' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='7' form='ὦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='ἄνδρες' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='Ἀθηναῖοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='11' form='πολλαὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='μὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='ἀπέχθειαί' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='μοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='γεγόνασι' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='οἷαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='χαλεπώταται' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='βαρύταται' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='22' form='ὥστε' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='πολλὰς' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='διαβολὰς' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='ἀπʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='αὐτῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='γεγονέναι' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='29' form='ὄνομα' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='τοῦτο' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='λέγεσθαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='34' form='σοφὸς' lemma='' postag='' relation='nil' head=''/>
+    <word id='35' form='εἶναι' lemma='' postag='' relation='nil' head=''/>
+    <word id='36' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='17' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='οἴονται' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='γάρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='με' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ἑκάστοτε' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='παρόντες' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ταῦτα' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='αὐτὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='εἶναι' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='σοφὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ἃ' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ἂν' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='ἄλλον' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='ἐξελέγξω' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='18' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='τὸ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='κινδυνεύει' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='ὦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἄνδρες' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='8' form='τῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='ὄντι' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ὁ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='θεὸς' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='σοφὸς' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='εἶναι' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='15' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='ἐν' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='τῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='χρησμῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='τούτῳ' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='τοῦτο' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='λέγειν' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='23' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='ἡ' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='ἀνθρωπίνη' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='σοφία' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='ὀλίγου' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='τινὸς' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='ἀξία' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='ἐστὶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='οὐδενός' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='19' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='φαίνεται' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='τοῦτον' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='λέγειν' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='τὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='Σωκράτη' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='8' form='προσκεχρῆσθαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='τῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ἐμῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ὀνόματι' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='14' form='ἐμὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='παράδειγμα' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='ποιούμενος' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='18' form='ὥσπερ' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='ἂν' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='εἰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='εἴποι' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='“οὗτος' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='ὑμῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='26' form='ὦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='ἄνθρωποι' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='29' form='σοφώτατός' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='ἐστιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='32' form='ὅστις' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='ὥσπερ' lemma='' postag='' relation='nil' head=''/>
+    <word id='34' form='Σωκράτης' lemma='' postag='' relation='nil' head=''/>
+    <word id='35' form='ἔγνωκεν' lemma='' postag='' relation='nil' head=''/>
+    <word id='36' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='37' form='οὐδενὸς' lemma='' postag='' relation='nil' head=''/>
+    <word id='38' form='ἄξιός' lemma='' postag='' relation='nil' head=''/>
+    <word id='39' form='ἐστι' lemma='' postag='' relation='nil' head=''/>
+    <word id='40' form='τῇ' lemma='' postag='' relation='nil' head=''/>
+    <word id='41' form='ἀληθείᾳ' lemma='' postag='' relation='nil' head=''/>
+    <word id='42' form='πρὸς' lemma='' postag='' relation='nil' head=''/>
+    <word id='43' form='σοφίαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='44' form='.' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='45' form='”' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='20' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ταῦτʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ἐγὼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='μὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ἔτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='νῦν' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='περιιὼν' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='ζητῶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ἐρευνῶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='κατὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='τὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='θεὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='ἀστῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='ξένων' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='ἄν' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='τινα' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='οἴωμαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='σοφὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='εἶναι' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='21' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='ἐπειδάν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='μοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='μὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='δοκῇ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='7' form='τῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='θεῷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='βοηθῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ἐνδείκνυμαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='οὐκ' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='ἔστι' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='σοφός' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='22' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='ὑπὸ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ταύτης' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='τῆς' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ἀσχολίας' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='οὔ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='-τε' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='τι' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='τῆς' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='πόλεως' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='πρᾶξαί' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='μοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='σχολὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='γέγονεν' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='ἄξιον' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='λόγου' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='οὔ' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='-τε' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='οἰκείων' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='23' form='ἀλλʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='ἐν' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='πενίᾳ' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='μυρίᾳ' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='εἰμὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='διὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='τὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='τοῦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='θεοῦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='λατρείαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='23' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='πρὸς' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='τούτοις' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='νέοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='μοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ἐπακολουθοῦντες—οἷς' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='μάλιστα' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='σχολή' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ἐστιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='12' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='πλουσιωτάτων—αὐτόματοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='16' form='χαίρουσιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='ἀκούοντες' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='ἐξεταζομένων' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='ἀνθρώπων' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='22' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='αὐτοὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='πολλάκις' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='ἐμὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='μιμοῦνται' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='28' form='εἶτα' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='ἐπιχειροῦσιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='ἄλλους' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='ἐξετάζειν' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='24' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='κ-' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='ἄπειτα' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='οἶμαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='εὑρίσκουσι' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='πολλὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἀφθονίαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='οἰομένων' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='μὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='εἰδέναι' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='τι' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ἀνθρώπων' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='13' form='εἰδότων' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='ὀλίγα' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='ἢ' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='οὐδέν' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='25' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἐντεῦθεν' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ὑπʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='αὐτῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἐξεταζόμενοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ἐμοὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='ὀργίζονται' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='10' form='οὐχ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='αὑτοῖς' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='13' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='λέγουσιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='ὡς' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='Σωκράτης' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='τίς' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='ἐστι' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='μιαρώτατος' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='διαφθείρει' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='τοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='νέους' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='26' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='ἐπειδάν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='τις' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='αὐτοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ἐρωτᾷ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ποιῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='διδάσκων' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='12' form='ἔχουσι' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='μὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='οὐδὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='εἰπεῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='ἀλλʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='ἀγνοοῦσιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='19' form='ἵνα' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='μὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='δοκῶσιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='ἀπορεῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='25' form='τὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='κατὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='πάντων' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='φιλοσοφούντων' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='πρόχειρα' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='ταῦτα' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='λέγουσιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='34' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='35' form='“τὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='36' form='μετέωρα' lemma='' postag='' relation='nil' head=''/>
+    <word id='37' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='38' form='τὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='39' form='ὑπὸ' lemma='' postag='' relation='nil' head=''/>
+    <word id='40' form='γῆς' lemma='' postag='' relation='nil' head=''/>
+    <word id='41' form='”' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='42' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='43' form='“θεοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='44' form='μὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='45' form='νομίζειν' lemma='' postag='' relation='nil' head=''/>
+    <word id='46' form='”' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='47' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='48' form='“τὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='49' form='ἥττω' lemma='' postag='' relation='nil' head=''/>
+    <word id='50' form='λόγον' lemma='' postag='' relation='nil' head=''/>
+    <word id='51' form='κρείττω' lemma='' postag='' relation='nil' head=''/>
+    <word id='52' form='ποιεῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='53' form='.' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='54' form='”' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='27' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='τὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ἀληθῆ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='οἴομαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='οὐκ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἂν' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ἐθέλοιεν' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='λέγειν' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='10' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='κατάδηλοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='γίγνονται' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='προσποιούμενοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='μὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='εἰδέναι' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='17' form='εἰδότες' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='οὐδέν' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='28' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἅτε' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='οἶμαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='φιλότιμοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ὄντες' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='σφοδροὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='πολλοί' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='11' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='συντεταμένως' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='πιθανῶς' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='λέγοντες' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='περὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='ἐμοῦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='19' form='ἐμπεπλήκασιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='ὑμῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='τὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='ὦτα' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='πάλαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='σφοδρῶς' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='διαβάλλοντες' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='29' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἐκ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='τούτων' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='Μέλητός' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='μοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἐπέθετο' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='Ἄνυτος' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='Λύκων' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='12' form='Μέλητος' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='μὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='ὑπὲρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='ποιητῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='ἀχθόμενος' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='19' form='Ἄνυτος' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='ὑπὲρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='δημιουργῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='πολιτικῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='28' form='Λύκων' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='ὑπὲρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='ῥητόρων' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='30' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ὥστε' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='3' form='ὅπερ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ἀρχόμενος' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ἐγὼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἔλεγον' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='8' form='θαυμάζοιμʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='ἂν' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='εἰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='οἷός' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='τʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='εἴην' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='ἐγὼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='ὑμῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='ταύτην' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='τὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='διαβολὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='ἐξελέσθαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='ἐν' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='οὕτως' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='ὀλίγῳ' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='χρόνῳ' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='οὕτω' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='πολλὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='γεγονυῖαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='31' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ταῦτʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='ἔστιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ὑμῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='ὦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἄνδρες' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='Ἀθηναῖοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='9' form='τ-' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ἀληθῆ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='12' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='ὑμᾶς' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='οὔ' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='-τε' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='μέγα' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='οὔ' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='-τε' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='μικρὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='ἀποκρυψάμενος' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='ἐγὼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='λέγω' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='οὐδʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='ὑποστειλάμενος' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='32' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='καίτοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='οἶδα' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='σχεδὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='αὐτοῖς' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='τούτοις' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ἀπεχθάνομαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='9' form='ὃ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='τεκμήριον' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='ἀληθῆ' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='λέγω' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='αὕτη' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='ἐστὶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='ἡ' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='διαβολὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='ἡ' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='ἐμὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='τὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='αἴτια' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='ταῦτά' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='ἐστιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='33' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='ἐάντε' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='νῦν' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ἐάντε' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='αὖθις' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ζητήσητε' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ταῦτα' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='9' form='οὕτως' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='εὑρήσετε' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='34' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='περὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='μὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='οὖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ὧν' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='πρῶτοί' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='μου' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='κατήγοροι' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='κατηγόρουν' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='αὕτη' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ἔστω' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ἱκανὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='ἀπολογία' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='πρὸς' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='ὑμᾶς' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='35' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='πρὸς' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='Μέλητον' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='τὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ἀγαθὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='φιλόπολιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='9' form='ὥς' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='φησι' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='12' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='τοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='ὑστέρους' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='μετὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='ταῦτα' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='πειράσομαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='ἀπολογήσασθαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='36' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='αὖθις' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='δή' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='ὥσπερ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἑτέρων' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='τούτων' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='ὄντων' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='κατηγόρων' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='11' form='λάβωμεν' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='αὖ' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='τὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='τούτων' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='ἀντωμοσίαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='37' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἔχει' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='δέ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='πως' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ὧδε' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='38' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='Σωκράτη' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='φησὶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ἀδικεῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='τούς' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='τε' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='νέους' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='διαφθείροντα' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='θεοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='οὓς' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ἡ' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='πόλις' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='νομίζει' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='οὐ' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='νομίζοντα' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='17' form='ἕτερα' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='δαιμόνια' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='καινά' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='39' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='τὸ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='μὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='δὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ἔγκλημα' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='τοιοῦτόν' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἐστιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='40' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='τούτου' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='τοῦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ἐγκλήματος' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ἓν' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἕκαστον' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ἐξετάσωμεν' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='41' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='φησὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='δὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='τοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='νέους' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἀδικεῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='με' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='διαφθείροντα' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='42' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἐγὼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='δέ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='γε' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='ὦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἄνδρες' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='Ἀθηναῖοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='9' form='ἀδικεῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='φημι' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='Μέλητον' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='13' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='σπουδῇ' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='χαριεντίζεται' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='17' form='ῥᾳδίως' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='εἰς' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='ἀγῶνα' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='καθιστὰς' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='ἀνθρώπους' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='23' form='περὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='πραγμάτων' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='προσποιούμενος' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='σπουδάζειν' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='κήδεσθαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='ὧν' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='οὐδὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='τούτῳ' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='πώποτε' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='ἐμέλησεν' lemma='' postag='' relation='nil' head=''/>
+    <word id='34' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='43' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ὡς' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='τοῦτο' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='οὕτως' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ἔχει' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='7' form='πειράσομαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='ὑμῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ἐπιδεῖξαι' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='44' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='καί' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='μοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='δεῦρο' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='ὦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='Μέλητε' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='8' form='εἰπέ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='45' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἄλλο' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='τι' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ἢ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='περὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='πλείστου' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ποιῇ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ὅπως' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='ὡς' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='βέλτιστοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='νεώτεροι' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ἔσονται' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='46' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἔγωγε' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='47' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἴθι' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='δή' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='νυν' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='εἰπὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='τούτοις' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='7' form='τίς' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='αὐτοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='βελτίους' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ποιεῖ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='48' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='δῆλον' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='οἶσθα' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='μέλον' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='γέ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='σοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='49' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='τὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='μὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='διαφθείροντα' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ἐξευρών' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='7' form='ὡς' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='φῄς' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='10' form='ἐμέ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='12' form='εἰσάγεις' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='τουτοισὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='κατηγορεῖς' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='50' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='τὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='δὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='βελτίους' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ποιοῦντα' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ἴθι' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='εἰπὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='μήνυσον' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='αὐτοῖς' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='τίς' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ἐστιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='51' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='—ὁρᾷς' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='3' form='ὦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='Μέλητε' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='σιγᾷς' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='οὐκ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ἔχεις' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='εἰπεῖν' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='52' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='καίτοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='οὐκ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='αἰσχρόν' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='σοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='δοκεῖ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='εἶναι' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='ἱκανὸν' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='τεκμήριον' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='οὗ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='δὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ἐγὼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='λέγω' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='15' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='σοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='οὐδὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='μεμέληκεν' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='53' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἀλλʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='εἰπέ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='4' form='ὠγαθέ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='τίς' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='αὐτοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='ἀμείνους' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='ποιεῖ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='54' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='νόμοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='55' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἀλλʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='οὐ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='τοῦτο' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ἐρωτῶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='ὦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='βέλτιστε' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='9' form='ἀλλὰ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='τίς' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ἄνθρωπος' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='13' form='ὅστις' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='πρῶτον' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='αὐτὸ' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='τοῦτο' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='οἶδε' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='20' form='τοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='νόμους' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='56' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='οὗτοι' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='3' form='ὦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='Σώκρατες' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='δικασταί' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='57' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='πῶς' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='λέγεις' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='4' form='ὦ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='Μέλητε' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='58' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='οἵδε' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='τοὺς' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='νέους' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='παιδεύειν' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='οἷοί' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='τέ' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='εἰσι' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='βελτίους' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ποιοῦσιν' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='59' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='μάλιστα' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='60' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='πότερον' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='ἅπαντες' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='4' form='ἢ' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='μὲν' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='αὐτῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='9' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='δʼ' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='οὔ' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='61' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='ἅπαντες' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='62' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='εὖ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='γε' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='νὴ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='τὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='Ἥραν' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='λέγεις' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='καὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='πολλὴν' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='ἀφθονίαν' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='τῶν' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ὠφελούντων' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='63' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='τί' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='δή' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='64' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='22b-24e' span=''>
+    <word id='1' form='οἱ' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ἀκροαταὶ' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='βελτίους' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ποιοῦσιν' lemma='' postag='' relation='nil' head=''/>
+  </sentence>
+</treebank>
